@@ -10,4 +10,4 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> This project required a SQL DBMS like PostgreSQL or MySQL to maintain all records like login, signup, and transactions.
+> This project requires a SQL DBMS like PostgreSQL or MySQL to maintain all records like login, signup, and transactions.
